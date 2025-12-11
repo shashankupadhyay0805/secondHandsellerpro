@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "@sendgrid/mail": "^7.6.0",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.23.0",
